@@ -10,4 +10,4 @@
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAnkitGautam&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkitGautam&theme=radical&hide_border=true&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkitGautam&theme=radical&hide_border=true&layout=compact)
