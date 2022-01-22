@@ -1,5 +1,5 @@
 # Hi there, I'm Ankit Gautam👋
-## I am a Student and MERN web developer
+## I am a Student and Web Developer ( MERN )
 
 <br>
 
