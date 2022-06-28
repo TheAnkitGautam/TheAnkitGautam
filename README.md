@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: [a53gau@gmail.com](mailto:a53gau@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=TheAnkitGautam&label=Profile%20Visits&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TheAnkitGautam&label=Profile%20Visits&pretty=true)](https://visitcount.itsvg.in)
 <br>
 
 # 📊GitHub Stats :
