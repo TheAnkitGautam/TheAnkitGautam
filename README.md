@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheAnkitGautam&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkitGautam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-### 🚀 Frameworks and Libraries I've worked on
+# 🚀 Frameworks and Libraries I've worked on
 
 <br/>
 
@@ -28,6 +28,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 
-#### Connect with me on - 
+# Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theankitgautam/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:a53gau@gmail.com)
